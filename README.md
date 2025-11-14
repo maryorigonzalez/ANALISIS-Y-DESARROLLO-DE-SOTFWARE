@@ -1,2 +1,4 @@
-echo "Hola, este es mi primer commit." > archivo.txt
+Nombre: MARYORI ANDREA GONZALEZ
+Correo: MARYORI.ANDREA506@GMAIL.COM
+
 
