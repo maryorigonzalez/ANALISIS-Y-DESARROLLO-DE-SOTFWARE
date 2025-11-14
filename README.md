@@ -1,1 +1,2 @@
-ANALISIS Y DESARROLLO DE SOTFWARE
+echo "Hola, este es mi primer commit." > archivo.txt
+
